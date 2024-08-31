@@ -7,7 +7,7 @@ A bash script to automate the installation of SIFT workstation, plus additionl a
 This script leverages the CAST project for SIFT saltstack configuration - https://github.com/ekristen/cast
 
 ```
-chmod + x ./installSIFTplus.sh
+chmod + x ./installSIFTplus.sh && ./installSIFTplus.sh
 ```
 
 ![alt text](https://github.com/ArronJablonowski/SIFT_Plus_Installer/blob/main/SIFTplus1.png?raw=true)
