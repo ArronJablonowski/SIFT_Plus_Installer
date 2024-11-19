@@ -9,7 +9,7 @@ This script leverages the CAST project for SIFT workstation saltstack configurat
 # Running the SIFT + Installer
 
 ```
-chmod + x ./installSIFTplus.sh && ./installSIFTplus.sh
+chmod +x ./installSIFTplus.sh && ./installSIFTplus.sh
 ```
 
 ![alt text](https://github.com/ArronJablonowski/SIFT_Plus_Installer/blob/main/SIFTplus1.png?raw=true)
