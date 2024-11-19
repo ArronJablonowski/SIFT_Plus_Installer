@@ -6,7 +6,7 @@ A bash script to automate the installation of SIFT workstation, plus additionl a
 
 This script leverages the CAST project for SIFT workstation saltstack configuration - https://github.com/ekristen/cast
 
-| Additional Tools | Description |
+| Additional Apps & Tools | Description |
 | --- | --- |
 | network miner| | 
 | oel tools | | 
