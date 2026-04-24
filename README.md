@@ -56,7 +56,6 @@ To get started, simply execute the following commands:
 chmod +x ./installSIFTplus.sh && ./installSIFTplus.sh
 ```
  
-**Screenshots:**
 Installing - 
 ![Installation Snapshot 1](https://github.com/ArronJablonowski/SIFT_Plus_Installer/blob/main/SIFTplus1.png?raw=true)
 Post Install - 
