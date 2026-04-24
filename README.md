@@ -50,7 +50,7 @@ This script leverages the CAST project for SIFT workstation saltstack configurat
 
 
 
-# Running the SIFT + Installer
+# Running the SIFT+ Installer
 
 ```
 chmod +x ./installSIFTplus.sh && ./installSIFTplus.sh
