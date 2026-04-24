@@ -1,4 +1,4 @@
-# SIFT + Installer Script 
+# SIFT+ Installer Script 
 
 A bash script to automate the installation of SIFT workstation, plus additionl applications, tools, and OS configurations. 
 
