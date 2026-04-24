@@ -8,7 +8,8 @@ The SIFT+ installer script is designed to streamline the setup of an advanced fo
 workstation saltstack configuration, ensuring a consistent and reproducible environment.
 
 ## Features
-
+- **SIFT Workstation** A collection of free and open-source incident response and forensic tools designed to perform detailed digital forensic examinations.
+### Plus 
 - **Network Miner**: Network analysis tool.
 - **OLE Tools**: Malware analysis tools.
 - **Plaso Tools**: For timeline generation and analysis.
