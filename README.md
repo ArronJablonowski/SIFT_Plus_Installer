@@ -5,7 +5,7 @@
 ## Overview
 
 The SIFT+ installer script is designed to streamline the setup of an advanced forensic workstation on Ubuntu 20 or Ubuntu 22. This script leverages the CAST project for SIFT 
-workstation saltstack configuration, ensuring a consistent and reproducible environment.
+workstation via saltstack configurations, ensuring a consistent and reproducible environment.
 
 ## Features
 - **SIFT Workstation** A collection of free and open-source incident response and forensic tools designed to perform detailed digital forensic examinations.
