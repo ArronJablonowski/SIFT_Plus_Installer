@@ -55,12 +55,10 @@ To get started, simply execute the following commands:
 ```bash
 chmod +x ./installSIFTplus.sh && ./installSIFTplus.sh
 ```
-Watch for several prompts asking for your sudo password to install certain packages. 
-
-
+ 
 **Screenshots:**
-
+Installing - 
 ![Installation Snapshot 1](https://github.com/ArronJablonowski/SIFT_Plus_Installer/blob/main/SIFTplus1.png?raw=true)
-
+Post Install - 
 ![Installation Snapshot 2](https://github.com/ArronJablonowski/SIFT_Plus_Installer/blob/main/SIFTplus2.png?raw=true)
 
