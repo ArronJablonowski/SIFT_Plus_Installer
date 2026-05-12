@@ -9,7 +9,7 @@ workstation via saltstack configurations, ensuring a consistent and reproducible
 
 ## Features
 - **SIFT Workstation:** A collection of free and open-source incident response and forensic tools designed to perform detailed digital forensic examinations.
-### Plus 
+### +Plus 
 - **Network Miner**: Network analysis tool.
 - **OLE Tools**: Malware analysis tools.
 - **Plaso Tools**: For timeline generation and analysis.
